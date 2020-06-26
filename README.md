@@ -1,5 +1,5 @@
 # UML-implementation
-UML Class implementation
+UML Class implementation with associations
 
 Provide implementation of mini project that consists:
  
@@ -12,3 +12,10 @@ Provide implementation of mini project that consists:
 • A derrived attribute
 • A class method
 • Method overriding and overloading
+
+Provide implementation of mini project that consists
+
+•“Basic” association
+• Association With an attribute
+• Qualified association
+• Composition
